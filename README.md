@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @inquisitive-anmol
-- 👀 I’m interested in programming and in the world of coding 
-- 🌱 I’m currently learning Web developmnt, machine learning 
+- 👀 I’m interested in programming and in the world of coding
+- ❤️ I'm keen to learn and explore new technologies
+- 🌱 I’m currently learning Web developmnt, java, DSA
 - 💞️ I’m looking to collaborate on projects and also like to be hired 
 - 📫 How to reach me - e-mail 📨 me at anmolof10gms@gmail.com or drop text on insta at https://instagram.com/inquisitive_anmol_?igshid=ZDdkNTZiNTM=
 
