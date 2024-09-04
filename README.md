@@ -3,7 +3,7 @@
 - ❤️ I'm keen to learn and explore new technologies
 - 🌱 I’m currently learning Web developmnt, java, DSA
 - 💞️ I’m looking to collaborate on projects and also like to be hired 
-- 📫 How to reach me - e-mail 📨 me at anmolof10gms@gmail.com or drop text on insta at https://instagram.com/inquisitive_anmol?igshid=ZDdkNTZiNTM=
+- 📫 How to reach me - e-mail 📨 me at anmolxofficial476@gmail.com or drop text on insta at https://instagram.com/inquisitive_anmol?igshid=ZDdkNTZiNTM=
 
 <!---
 inquisitive-anmol/inquisitive-anmol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
