@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning new technologies like graphQl.
 - 💞️ I’m looking to collaborate on projects and also like to be hired 
 - 📫 How to reach me - e-mail 📨 me at anmolxofficial476@gmail.com or drop text on insta at https://instagram.com/inquisitive_anmol?igshid=ZDdkNTZiNTM=
+- 👀 One can also contact me on x(twitter) by following the link: https://x.com/inquisitive_anm?t=TN36EuGRe0g3fJBQYo4CJA&s=08
 
 <!---
 inquisitive-anmol/inquisitive-anmol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
